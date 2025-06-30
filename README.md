@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @monkeyalchemy
 - 👀 I’m interested in ... Python, SQL, and Cache
-- 🌱 I’m currently learning ... CS50x
 - 💞️ I’m looking to collaborate on ... Healthcare IT projects
 - 📫 How to reach me ... here
 
